@@ -20,7 +20,8 @@
         <activity android:name=".Q2" />
         <activity android:name=".Q3" />
         <activity android:name=".Q4" />
-        <activity android:name=".Q5"></activity>
+        <activity android:name=".Q5" />
+        <activity android:name=".Q4_2"></activity>
     </application>
 
 </manifest>
